@@ -1,2 +1,2 @@
 # Ambience-Meter
-This is an exploratory IoT project that aims to combine multiple environmental factors to give an ideal Ambiance value
+This is an exploratory IoT project that aims to combine multiple environmental factors to give an ideal Ambiance value. The aim is to sense environmental factors such as temperature, humidity, air quality and such factors combine these to generate an aggregated value that tells us about the ambience level of a place. The web app will also let us check the ideal ambience level on the base of the user's preferences. We also aim to add features that will suggest some action to the user to gain a targeted ambience level according to the set preference.
